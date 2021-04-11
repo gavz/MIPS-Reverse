@@ -1,7 +1,7 @@
 
-# SPIM
+# MIPS-Reverse
 
-Spim is a tool that can generate shellcodes for the  [MIPS](https://en.wikipedia.org/wiki/MIPS_architecture) architecture that launches a **reverse shell** where you can specify the ***IP adress***, the ***port*** and the ***desired shell*** (*/bin/sh*, */bin/bash*, */bin/dash*).
+MIPS-Reverse is a tool that can generate shellcodes for the  [MIPS](https://en.wikipedia.org/wiki/MIPS_architecture) architecture that launches a **reverse shell** where you can specify the ***IP adress***, the ***port*** and the ***desired shell*** (*/bin/sh*, */bin/bash*, */bin/dash*).
 
 ## How to install
 ```
